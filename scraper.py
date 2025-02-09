@@ -1,14 +1,5 @@
 import os
 import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
-import time
-import requests
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
 
 def save_images(image_elements, output_folder):
     os.makedirs(output_folder, exist_ok=True)

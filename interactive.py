@@ -1,3 +1,7 @@
+import time
+from selenium.webdriver.common.by import By
+
+
 def open_page(driver, url):
     driver.get(url)
     time.sleep(10)
