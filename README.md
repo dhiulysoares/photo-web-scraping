@@ -57,4 +57,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Requests](https://docs.python-requests.org/en/latest/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 - [Selenium](https://www.selenium.dev/documentation/en/)
-```
